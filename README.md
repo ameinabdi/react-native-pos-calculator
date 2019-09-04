@@ -38,7 +38,7 @@ All props in [common props](#common-props) and...
 ## Calculator Input Component
 
 <img alt="react-native-gifted-chat" src="https://thumbs.gfycat.com/DismalSpotlessAcaciarat-size_restricted.gif" width="261" height="464" />
-<img alt="react-native-gifted-chat" src="./example/assets/screenshot.png" width="261" height="464" />
+<img alt="react-native-gifted-chat" src="https://files.slack.com/files-pri/T1SKHQ21L-FEQU79KAL/screenshot_2018-12-12_at_09.24.36.png" width="261" height="464" />
 
 ### Usage
 
